@@ -1,2 +1,5 @@
 # FAANG_TECH_LABS
-JAVA CODING TASKS
+
+![FAANG TECH LABS](https://faangtechlab.com/frontend/faang/faang/logo.png)
+
+## JAVA Syntax
