@@ -1,4 +1,4 @@
-<img width="1650" alt="image" src="https://github.com/user-attachments/assets/9fe279bd-2c53-439b-aae9-7719c7eccf2c" /># FAANG_TECH_LABS
+# FAANG_TECH_LABS
 
 ![FAANG TECH LABS](https://faangtechlab.com/frontend/faang/faang/logo.png)
 
