@@ -7,4 +7,5 @@
 ### Arrays
 | Problem | Output |
 |:---------------:| :-------------------------------:|
-|[Pascals Triangle](./Arrays/PascalTriangle.java) | [output](./Arrays/outputs.md###pascal-triangle)     
+|[Pascals Triangle](./Arrays/PascalTriangle.java) | [output](./Arrays/outputs.md###pascal-triangle)   
+|[Sort Array Of 0's, 1's and 2's](./Arrays/SortArrayOf012.java) | [output](./Arrays/outputs.md###sort-array-012)
